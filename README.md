@@ -1,2 +1,2 @@
-# c++ trainig
+# c++ training
 
